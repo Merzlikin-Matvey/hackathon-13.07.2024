@@ -1,14 +1,9 @@
-import pandas as pd
-import numpy as np
+import math
 
+def probability_of_purchase(x, y):
+    return 1 - math.exp(-y / x)
 
-def main():
-    interactiondata = pd.read_csv('data/interactiondata.csv')
-    userdata = pd.read_csv('data/userdata.csv')
-
-    df = pd.merge(interactiondata, userdata, on='userid')
-    df.head()
-
-
-if __name__ == '__main__':
-    main()
+# Пример: среднее количество дней между покупками x = 10, спустя y = 5 дней
+x = 4
+y = 28
+print(probability_of_purchase(x, y))
