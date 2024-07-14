@@ -7,4 +7,4 @@
   <li> <dir>Четокин Артём </dir></li>
   <li> <dir>Мерзликин Матвей</dir></li></h2>
  <h2>Перейдем к содержанию нашего репозитория</h2>
- В папке [plots](/Users/marinaladoha/Downloads/hackathon-13.07.2024-main/plots) хранятся все графики</h2>
+ В папке [plots](plots) хранятся все графики</h2>
