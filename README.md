@@ -7,4 +7,4 @@
   <li> <dir>Четокин Артём </dir></li>
   <li> <dir>Мерзликин Матвей</dir></li></h2>
  <h2>Перейдем к содержанию нашего репозитория</h2>
- В папке [plots](plots) хранятся все графики</h2>
+ В папке [plots](https://github.com/Merzlikin-Matvey/hackathon-13.07.2024/tree/af81b17fb10159fc10c01a86a69a2cadfcf70383/plots) хранятся все графики</h2>
